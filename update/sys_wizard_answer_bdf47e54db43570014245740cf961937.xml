@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Inspector lookup rule</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Inspector lookup rule</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">83d73441db00130014245740cf961920</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>ADM.STE</sys_created_by>
+        <sys_created_on>2018-06-28 09:22:30</sys_created_on>
+        <sys_id>bdf47e54db43570014245740cf961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inspector lookup rule</sys_name>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>sys_wizard_answer_bdf47e54db43570014245740cf961937</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-28 09:22:30</sys_updated_on>
+        <table/>
+        <target_url>x_19137_safety_inspector_lookup_rule.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

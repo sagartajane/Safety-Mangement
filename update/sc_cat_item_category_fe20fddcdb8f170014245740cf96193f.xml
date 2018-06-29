@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Report Safety Issue">fe20b1dcdb8f170014245740cf9619f8</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>ADM.STE</sys_created_by>
+        <sys_created_on>2018-06-28 04:21:55</sys_created_on>
+        <sys_id>fe20fddcdb8f170014245740cf96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Report Safety Issue</sys_name>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>sc_cat_item_category_fe20fddcdb8f170014245740cf96193f</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-28 04:21:55</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

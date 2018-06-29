@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"53f6bc1e-240e-4476-92b2-6ffd41c15983.table_name","label":"2.1➛Issue Table","reference":"x_19137_safety_issue","reference_display":"Issue Table"},{"name":"53f6bc1e-240e-4476-92b2-6ffd41c15983.record","label":"2.1➛Issue Record","reference":"x_19137_safety_issue","reference_display":"Issue Record"},{"name":"d22252b6-ac5e-40dc-9280-b081861da052.approval_state","label":"1➛Approval State","reference_display":"Approval State"},{"name":"Updated_1.current.opened_by","label":"Trigger➛Issue Record➛Opened by","reference":"sys_user","reference_display":"Opened by","type":"reference","base_type":"reference","parent_table_name":"x_19137_safety_issue","column_name":"opened_by"},{"name":"Updated_1.current","label":"Trigger➛Issue Record","reference":"x_19137_safety_issue","reference_display":"Issue","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot display_value="Issue Aproval">b7d9c390db83570014245740cf961950</latest_snapshot>
+        <name>Issue Aproval</name>
+        <remote_trigger_id>302687dcdb43570014245740cf96192c</remote_trigger_id>
+        <show_draft_actions>false</show_draft_actions>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>luke.wilson</sys_created_by>
+        <sys_created_on>2018-06-28 10:29:49</sys_created_on>
+        <sys_id>8c64039cdb43570014245740cf961945</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Issue Aproval</sys_name>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>sys_hub_flow_8c64039cdb43570014245740cf961945</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-28 10:53:52</sys_updated_on>
+    </sys_hub_flow>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>u_boolean_2</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>ADM.STE</sys_created_by>
+        <sys_created_on>2018-06-28 10:10:44</sys_created_on>
+        <sys_id>fbcfbad8db43570014245740cf9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_boolean_2</sys_name>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>sys_ui_policy_action_fbcfbad8db43570014245740cf9619af</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-28 10:10:44</sys_updated_on>
+        <table>x_19137_safety_issue</table>
+        <ui_policy display_value="Hide Project when category is &quot;small&quot;.">11af3ad8db43570014245740cf9619ff</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>

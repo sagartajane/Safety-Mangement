@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="cert_instance">
+    <cert_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assign_to>assigned_to</assign_to>
+        <assign_to_empty>Create Unassigned Task</assign_to_empty>
+        <assign_to_group/>
+        <assignment_type>User Field</assignment_type>
+        <audit_type>data_cert</audit_type>
+        <cert_audit_instance/>
+        <cert_condition/>
+        <cert_schedule display_value="test">fd7f566edb33030014245740cf961989</cert_schedule>
+        <complete_by>2018-06-29 19:00:01</complete_by>
+        <completed/>
+        <condition/>
+        <conditional>false</conditional>
+        <create_tasks>false</create_tasks>
+        <display_fields>name</display_fields>
+        <fields>asset_tag</fields>
+        <filter display_value="All UPS - 1">2da0a2e9bf2111007c94c0647e0739be</filter>
+        <group/>
+        <health_window>7</health_window>
+        <health_window_unit>days</health_window_unit>
+        <instructions/>
+        <is_building>false</is_building>
+        <last_run_date>2018-06-26 19:00:09</last_run_date>
+        <name>test</name>
+        <next_scheduled_run/>
+        <number>CRTINST0010136</number>
+        <percent_complete>0</percent_complete>
+        <prev_last_run_date/>
+        <run_as display_value="Sagar Tajane">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2018-06-27 19:00:01</run_start>
+        <run_time>1970-01-01 20:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[ ]]></script>
+        <short_description/>
+        <stability_count>1</stability_count>
+        <state>2</state>
+        <sys_class_name>cert_instance</sys_class_name>
+        <sys_created_by>ADM.STE</sys_created_by>
+        <sys_created_on>2018-06-27 19:00:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0c9f6f8cdb8b170014245740cf96198a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>cert_instance_0c9f6f8cdb8b170014245740cf96198a</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-27 19:00:04</sys_updated_on>
+        <table>cmdb_ci_ups</table>
+        <task_description>Remedy the discrepancies listed in the Audit Results below</task_description>
+        <template/>
+        <threshold_count>5</threshold_count>
+        <upgrade_safe>false</upgrade_safe>
+        <user/>
+    </cert_instance>
+</record_update>

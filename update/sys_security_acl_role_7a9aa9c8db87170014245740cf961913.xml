@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>ADM.STE</sys_created_by>
+        <sys_created_on>2018-06-27 09:19:08</sys_created_on>
+        <sys_id>7a9aa9c8db87170014245740cf961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_19137_safety_issue.x_19137_safety.user</sys_name>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_security_acl display_value="x_19137_safety_issue">ba9aa9c8db87170014245740cf961910</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7a9aa9c8db87170014245740cf961913</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-27 09:19:08</sys_updated_on>
+        <sys_user_role display_value="x_19137_safety.user" name="x_19137_safety.user">e29a69c8db87170014245740cf9619f3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

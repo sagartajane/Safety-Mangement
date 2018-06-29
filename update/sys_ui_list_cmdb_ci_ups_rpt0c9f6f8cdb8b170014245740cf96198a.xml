@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_ups" version="2" view="RPT0c9f6f8cdb8b170014245740cf96198a">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_ups" element="NULL" name="cmdb_ci_ups" parent="NULL" relationship="NULL" sys_domain="global" view="849f6f8cdb8b170014245740cf96198f">a49faf8cdb8b170014245740cf961943</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-27 19:00:03</sys_created_on>
+            <sys_id>ac9faf8cdb8b170014245740cf961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-27 19:00:03</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>asset_tag</element>
+            <list_id display_value="cmdb_ci_ups" element="NULL" name="cmdb_ci_ups" parent="NULL" relationship="NULL" sys_domain="global" view="849f6f8cdb8b170014245740cf96198f">a49faf8cdb8b170014245740cf961943</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-27 19:00:04</sys_created_on>
+            <sys_id>249faf8cdb8b170014245740cf961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-27 19:00:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_ups</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-27 19:00:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a49faf8cdb8b170014245740cf961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_ups</sys_name>
+            <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_ups_RPT0c9f6f8cdb8b170014245740cf96198a</sys_update_name>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-27 19:00:03</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt0c9f6f8cdb8b170014245740cf96198a" name="RPT0c9f6f8cdb8b170014245740cf96198a">849f6f8cdb8b170014245740cf96198f</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

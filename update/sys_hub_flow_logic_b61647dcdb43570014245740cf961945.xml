@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">b21647dcdb43570014245740cf961944</block>
+        <connected_to>dc418dff-305b-40bf-ab7b-7f5502412820</connected_to>
+        <display_text/>
+        <flow display_value="Issue Aproval">8c64039cdb43570014245740cf961945</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>luke.wilson</sys_created_by>
+        <sys_created_on>2018-06-28 10:37:23</sys_created_on>
+        <sys_id>b61647dcdb43570014245740cf961945</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_b61647dcdb43570014245740cf961945</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-28 10:53:50</sys_updated_on>
+        <ui_id>d5e3b5d2-dc02-4985-99a8-6b8689eaafc9</ui_id>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=b61647dcdb43570014245740cf961945"/>
+</record_update>

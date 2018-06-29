@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Safety Issue Management">95498470db47130014245740cf96193c</dashboard>
+        <delete>false</delete>
+        <group display_value="Safety Issue Manager" name="Safety Issue Manager">89b24698dbcf170014245740cf9619a4</group>
+        <identity>89b24698dbcf170014245740cf9619a4</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>ADM.STE</sys_created_by>
+        <sys_created_on>2018-06-29 10:11:33</sys_created_on>
+        <sys_id>56c98470db47130014245740cf961947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>89b24698dbcf170014245740cf9619a4</sys_name>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_56c98470db47130014245740cf961947</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-29 10:11:33</sys_updated_on>
+        <type>2</type>
+        <user/>
+        <write>false</write>
+    </pa_dashboards_permissions>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
+        <plan/>
+        <plan_id>8c64039cdb43570014245740cf961945</plan_id>
+        <snapshot>b7d9c390db83570014245740cf961950</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>luke.wilson</sys_created_by>
+        <sys_created_on>2018-06-28 10:37:31</sys_created_on>
+        <sys_id>702687dcdb43570014245740cf96192e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>302687dcdb43570014245740cf96192c</sys_name>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_702687dcdb43570014245740cf96192e</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-28 10:53:51</sys_updated_on>
+        <trigger display_value="">302687dcdb43570014245740cf96192c</trigger>
+    </sys_flow_trigger_plan>
+</record_update>

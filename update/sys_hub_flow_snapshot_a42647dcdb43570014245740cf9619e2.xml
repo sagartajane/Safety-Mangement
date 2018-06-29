@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"d22252b6-ac5e-40dc-9280-b081861da052.approval_state","label":"1➛Approval State","type":"choice","base_type":"choice"},{"name":"Updated_1.current.opened_by","label":"Trigger➛Issue Record➛Opened by","reference":"sys_user","reference_display":"Opened by","type":"reference","base_type":"reference","parent_table_name":"x_19137_safety_issue","column_name":"opened_by"},{"name":"Updated_1.current","label":"Trigger➛Issue Record","reference":"x_19137_safety_issue","reference_display":"Issue","type":"reference","base_type":"reference"}]</label_cache>
+        <name>Issue Aproval</name>
+        <parent_flow display_value="Issue Aproval">8c64039cdb43570014245740cf961945</parent_flow>
+        <remote_trigger_id/>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>luke.wilson</sys_created_by>
+        <sys_created_on>2018-06-28 10:37:30</sys_created_on>
+        <sys_id>a42647dcdb43570014245740cf9619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue Aproval</sys_name>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_a42647dcdb43570014245740cf9619e2</sys_update_name>
+        <sys_updated_by>luke.wilson</sys_updated_by>
+        <sys_updated_on>2018-06-28 10:37:30</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="dl_definition">
+    <dl_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <matcher_table>x_19137_safety_inspector_lookup_rule</matcher_table>
+        <name>Inspector Lookup</name>
+        <run_on_form_change>true</run_on_form_change>
+        <run_on_insert>true</run_on_insert>
+        <run_on_update>true</run_on_update>
+        <source_table>x_19137_safety_issue</source_table>
+        <sys_class_name>dl_definition</sys_class_name>
+        <sys_created_by>ADM.STE</sys_created_by>
+        <sys_created_on>2018-06-28 09:27:47</sys_created_on>
+        <sys_id>cec5f694db43570014245740cf9619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inspector Lookup</sys_name>
+        <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+        <sys_update_name>dl_definition_cec5f694db43570014245740cf9619c2</sys_update_name>
+        <sys_updated_by>ADM.STE</sys_updated_by>
+        <sys_updated_on>2018-06-28 09:27:47</sys_updated_on>
+    </dl_definition>
+</record_update>

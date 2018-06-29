@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_19137_safety_issue" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>x_19137_safety_issue</name>
+            <sequence>0</sequence>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-28 10:28:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87048f5cdb43570014245740cf961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-28 10:28:24</sys_updated_on>
+            <value>-5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_19137_safety_issue</name>
+            <sequence>1</sequence>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-28 10:28:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0b048f5cdb43570014245740cf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-28 10:28:24</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approval</label>
+            <language>en</language>
+            <name>x_19137_safety_issue</name>
+            <sequence>2</sequence>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-28 10:28:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87048f5cdb43570014245740cf96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-28 10:28:24</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_19137_safety_issue</name>
+            <sequence>3</sequence>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-28 10:28:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cf04039cdb43570014245740cf9619ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-28 10:28:24</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_19137_safety_issue</name>
+            <sequence>4</sequence>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-28 10:28:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f04039cdb43570014245740cf9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-28 10:28:24</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_19137_safety_issue</name>
+            <sequence>5</sequence>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-28 10:28:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb04039cdb43570014245740cf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-28 10:28:24</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Skipped</label>
+            <language>en</language>
+            <name>x_19137_safety_issue</name>
+            <sequence>6</sequence>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-28 10:28:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b04039cdb43570014245740cf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-28 10:28:24</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_19137_safety_issue</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>ADM.STE</sys_created_by>
+            <sys_created_on>2018-06-28 10:28:24</sys_created_on>
+            <sys_id>83048f5cdb43570014245740cf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Safety" source="x_19137_safety">9a9aad40db87170014245740cf961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">9a9aad40db87170014245740cf961912</sys_scope>
+            <sys_update_name>sys_choice_x_19137_safety_issue_state</sys_update_name>
+            <sys_updated_by>ADM.STE</sys_updated_by>
+            <sys_updated_on>2018-06-28 10:28:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
